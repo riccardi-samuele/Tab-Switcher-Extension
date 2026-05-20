@@ -1,5 +1,9 @@
 # Tab Switcher Extension for Firefox
 
+```
+https://addons.mozilla.org/en-US/firefox/addon/tab-switcher-alt-w-s/
+```
+
 A simple browser extension that allows you to switch between tabs using `Alt + W` and `Alt + S`.
 
 ## Features
